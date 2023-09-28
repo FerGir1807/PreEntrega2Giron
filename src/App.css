@@ -1,0 +1,17 @@
+.socials {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+.socials ul {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.socials li {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 5px;
+}
